@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎I'm Sarvesh Kuvalekar<br>❤️I'm a Fullstack (MERN) web developer from India<br>💻I like to talk and write about things i learn in tech<br>😊I'm always on lookout for good opportunities<br>🌐You can ask me anything about web dev<br>😜Fun fact - Even though I'm a developer i like Tea More than coffee<br>
+😎I'm Sarvesh Kuvalekar<br>❤️I'm a Fullstack web developer from India<br>💻I like to talk and write about things i learn in tech<br>😊I'm always on lookout for good opportunities<br>🌐You can ask me anything about web dev<br>😜Fun fact - Even though I'm a developer i like Tea More than coffee<br>
 
 
 ## 🌐 Socials:
